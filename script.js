@@ -17,7 +17,7 @@ const getKeyType = key => {
 }
 
 const createResultString = (key, displayedNum, state) => {
-    // Variables & properties required are:
+    // Variables & properties required:
     // key {keyContent}
     // displayedNum
     // state {previousKeyType, firstValue, operator, modValue}
